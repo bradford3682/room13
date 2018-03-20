@@ -1,0 +1,16 @@
+
+//Bradford Mcdaniel
+// csc 251
+// lab14
+
+
+
+#include<stdio.h>
+#include<stdlib.h>
+
+int main(void){
+
+puts("this is room13..... low raspy voice asks you what is your quest");
+
+
+}
