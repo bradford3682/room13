@@ -7,24 +7,24 @@
 int main(void){
 char choice;
 
-puts("welcome to room13 there please chose a direction to move  w for west e for east s for south n for north");
+puts("welcome to room13 there please chose a direction to move  1 for west 2 for east 3 for south 4 for north");
 scanf("%c",choice);
-if(choice=='n'){
+if(choice=='1'){
 puts("you fell into a pit of snakes game over");
 }
 
-else if(choice=='s'){
+else if(choice=='2'){
 puts("you move into room with a lake");
 
 }
 
 
-else if(choice=='e'){
+else if(choice=='3'){
 puts("you get audited you are now poor game over");
 }
 
 
-else if(choice=='w'){
+else if(choice=='4'){
 puts(" you find the sword of truth");
 
 }
